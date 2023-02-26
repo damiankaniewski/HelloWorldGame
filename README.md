@@ -19,4 +19,5 @@ To play Hello World, you must have Unity 2D installed on your computer. After do
 ![ScreenShot](https://github.com/damiankaniewski/HelloWorldGame/blob/master/HelloWorldGame3.png)
 
 ## Credits
-Village Defense was created by Damian Kaniewski.
+Hello World was created by Damian Kaniewski.
+Named Hello World, because it was my first adventure with Unity few years ago.
